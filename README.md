@@ -28,16 +28,16 @@ With this README generator, you no longer need to create a professional README f
 
 ### Steps to initialize the project:  
 1. **Copy Link:** Hit the "Code" button within this GitHub repo to copy link
-1. **Clone:** Within GitBash, use the command "git clone *paste link here*"
+1. **Clone:** Within GitBash, use the command "git clone *M11_readmegenerator*"
 1. **NPM:** Use the command "npm init -y" to install Node Package Manager
 1. **Inquirer:** Use the command "npm install inquirer" to get npm's inquirer package
 
 ## Usage
-Once software is downloaded and Node packages are initialized, it's time to get started!
+Once the software is downloaded and Node packages are initialized, it's time to get going!
 
 Within the directory for this project, initialize prompts using the command "node index.js".
 
-From there, simply enter the necessary information for your project, and voila! A new README file will be generated and placed into the 'dist' folder.
+From there, simply enter the necessary information for your project, and hey presto! A new README file will be generated and placed into the 'dist' folder.
 
 Not sure what to input for a certain section? Follow the guidelines outlined below.
 
