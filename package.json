@@ -1,0 +1,16 @@
+{
+  "name": "static-site",
+  "version": "1.0.0",
+  "description": "## Navigate To: * [Description](#description) * [Installation](#installation) * [Usage](#usage) * [Guidelines](#guidelines) * [Demonstration](#demonstration) * [Questions](#questions) * [Credits](#credits)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^6.3.1"
+  },
+  "devDependencies": {},
+  "keywords": []
+}
