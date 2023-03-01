@@ -69,7 +69,8 @@ Not sure what to input for a certain section? Follow the guidelines outlined bel
     * If you followed tutorials, include links to those here as well.
 
 ## Demonstration
-Watch [this demo](https://www.youtube.com/watch?v=iDUiKBdE1U8) to see the README Generator in action.
+Watch [this demo](https://github.com/phil13131) 
+Email: pd131.2574@gmail.com) to see the README Generator in action.
 
 ## Questions
   
