@@ -28,7 +28,7 @@ With this README generator, you no longer need to create a professional README f
 
 ### Steps to initialize the project:  
 1. **Copy Link:** Hit the "Code" button within this GitHub repo to copy link
-1. **Clone:** Within GitBash, use the command "git clone *M11_readmegenerator*"
+1. **Clone:** Within GitBash, use the command "git clone *M11_findme_README*"
 1. **NPM:** Use the command "npm init -y" to install Node Package Manager
 1. **Inquirer:** Use the command "npm install inquirer" to get npm's inquirer package
 
